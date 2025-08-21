@@ -29,3 +29,14 @@ professional-certifications/
 └── ucd-computer-science/
 ├── diploma-supplement.pdf
 └── README.md
+
+
+## 📜 **Verification**
+
+All certifications in this repository are independently verifiable:
+- **NVIDIA Certificate ID:** rU6qhV6ZQ2CWGEtoAD4IjA
+- **UCD Academic Records:** Available upon request
+
+---
+
+**Note:** This repository contains verified professional certifications and academic achievements. All documents are authentic and verifiable through official channels.
