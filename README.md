@@ -19,3 +19,13 @@ Collection of professional certifications and academic achievements.
 
 ## 📁 **Repository Structure**
 
+professional-certifications/
+├── README.md
+├── nvidia/
+│   └── deep-learning-fundamentals/
+│       ├── MyLearning_NVIDIA.pdf
+│       └── README.md
+└── academic/
+└── ucd-computer-science/
+├── diploma-supplement.pdf
+└── README.md
